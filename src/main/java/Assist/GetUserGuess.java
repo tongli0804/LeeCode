@@ -17,4 +17,8 @@ public class GetUserGuess {
         }
 
     }
+
+    public static void main(String[] args) {
+        getUserGuess();
+    }
 }
