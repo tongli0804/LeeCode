@@ -16,6 +16,7 @@ public class  myArray{
             'q','r','s','t','u','v','w','x','y','z'};
     int[] iMonth = {31,28,31,30,31,30,31,31,30,31,30,31};
     String[] sMail = {"@","."};
+
     /**
      *<br>方法说明：校验电子邮件
      *<br>输入参数：String sPara 被校验的电子邮件字符
