@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="57a3f8d4-0400-4674-af2b-7e4064485078" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Leecode/GuessGame.java" afterDir="false" />
+    <list default="true" id="57a3f8d4-0400-4674-af2b-7e4064485078" name="Default Changelist" comment="7月16号">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leecode/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leecode/EchoTestDrive.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Leecode/IdCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Leecode/IdCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leecode/calculation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leecode/calculation.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -20,27 +19,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Leecode/Hero.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Leecode/GuessNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1817">
-              <caret line="81" column="47" selection-start-line="81" selection-start-column="47" selection-end-line="81" selection-end-column="47" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Leecode/flowDemo.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -83,11 +61,36 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Leecode/GuessGame.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="115">
               <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Leecode/EchoTestDrive.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+              <folding>
+                <element signature="e#582#583#0" expanded="true" />
+                <element signature="e#632#633#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Leecode/Dog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+              <folding>
+                <element signature="e#707#708#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -151,6 +154,8 @@
         <option value="$PROJECT_DIR$/src/main/java/Leecode/calculation.java" />
         <option value="$PROJECT_DIR$/src/main/java/Leecode/IdCard.java" />
         <option value="$PROJECT_DIR$/src/main/java/Leecode/GuessGame.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leecode/EchoTestDrive.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leecode/Dog.java" />
       </list>
     </option>
   </component>
@@ -244,9 +249,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IdCard">
-    <configuration name="IdCard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leecode.IdCard" />
+  <component name="RunManager" selected="Application.Dog">
+    <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leecode.Dog" />
       <module name="LeeCode" />
       <extension name="coverage">
         <pattern>
@@ -258,12 +263,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.leecode.Main" />
+    <configuration name="EchoTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leecode.EchoTestDrive" />
       <module name="LeeCode" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Leecode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IdCard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leecode.IdCard" />
+      <module name="LeeCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Leecode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -295,13 +316,16 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.flowDemo" />
       <item itemvalue="Application.calculation" />
       <item itemvalue="Application.IdCard" />
+      <item itemvalue="Application.EchoTestDrive" />
+      <item itemvalue="Application.Dog" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Dog" />
+        <item itemvalue="Application.EchoTestDrive" />
         <item itemvalue="Application.IdCard" />
         <item itemvalue="Application.calculation" />
         <item itemvalue="Application.flowDemo" />
@@ -319,7 +343,7 @@
       <option name="presentableId" value="Default" />
       <updated>1561979421745</updated>
       <workItem from="1561979425864" duration="25783000" />
-      <workItem from="1562584033160" duration="10287000" />
+      <workItem from="1562584033160" duration="13746000" />
     </task>
     <task id="LOCAL-00001" summary="7月4号">
       <created>1562237406138</created>
@@ -342,15 +366,21 @@
       <option name="project" value="LOCAL" />
       <updated>1562643172568</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="7月16号">
+      <created>1563267123632</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1563267123632</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36070000" />
+    <option name="totallyTimeSpent" value="39529000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12859304" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -389,7 +419,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="7月4号" />
     <MESSAGE value="7月9号" />
-    <option name="LAST_COMMIT_MESSAGE" value="7月9号" />
+    <MESSAGE value="7月16号" />
+    <option name="LAST_COMMIT_MESSAGE" value="7月16号" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -527,6 +558,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leecode/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding>
+            <element signature="e#707#708#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leecode/EchoTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+          <folding>
+            <element signature="e#582#583#0" expanded="true" />
+            <element signature="e#632#633#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
