@@ -91,9 +91,6 @@ public class SimpleDotComTestDriver {
     }
 }
 
-
-
-
 class SimpleDotCom{
     int[][] locationCells;
     int numOfHits = 0;
