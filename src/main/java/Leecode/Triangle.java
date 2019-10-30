@@ -12,8 +12,7 @@ public class Triangle {
             ta[x].height = (x + 1) * 2;
             ta[x].length = x + 4;
             ta[x].setArea();
-            System.out.print("triangle "+x+" , area");
-            System.out.println(" = " + ta[x].area);
+            System.out.println("triangle "+x+" , area =" + ta[x].area);
             x = x+1;
         }
         int y =x;
