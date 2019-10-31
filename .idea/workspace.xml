@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57a3f8d4-0400-4674-af2b-7e4064485078" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Leecode/PhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leecode/Plus.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Leecode/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Leecode/Triangle.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,15 +23,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="161">
               <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/dot/com/DotComBust.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -90,14 +80,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Leecode/PhoneNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+            <state relative-caret-position="414">
+              <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Leecode/Plus.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-299">
+              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -154,6 +153,7 @@
         <option value="$PROJECT_DIR$/src/main/java/Leecode/Mixed2.java" />
         <option value="$PROJECT_DIR$/src/main/java/Leecode/Triangle.java" />
         <option value="$PROJECT_DIR$/src/main/java/Leecode/PhoneNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leecode/Plus.java" />
       </list>
     </option>
   </component>
@@ -259,26 +259,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PhoneNumber">
+  <component name="RunManager" selected="Application.Plus">
     <configuration name="ArrayListMagnet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Leecode.ArrayListMagnet" />
       <module name="LeeCode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Leecode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DotComBust" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dot.com.DotComBust" />
-      <module name="LeeCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dot.com.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -312,6 +299,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Plus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leecode.Plus" />
+      <module name="LeeCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Leecode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Leecode.Triangle" />
       <module name="LeeCode" />
@@ -326,19 +326,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DotComBust" />
       <item itemvalue="Application.ArrayListMagnet" />
       <item itemvalue="Application.Mixed2" />
       <item itemvalue="Application.Triangle" />
       <item itemvalue="Application.PhoneNumber" />
+      <item itemvalue="Application.Plus" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Plus" />
         <item itemvalue="Application.PhoneNumber" />
         <item itemvalue="Application.Triangle" />
         <item itemvalue="Application.Mixed2" />
         <item itemvalue="Application.ArrayListMagnet" />
-        <item itemvalue="Application.DotComBust" />
       </list>
     </recent_temporary>
   </component>
@@ -358,7 +358,7 @@
       <workItem from="1566183639876" duration="8352000" />
       <workItem from="1566548953955" duration="600000" />
       <workItem from="1567666985601" duration="3114000" />
-      <workItem from="1571971129430" duration="7412000" />
+      <workItem from="1571971129430" duration="9446000" />
     </task>
     <task id="LOCAL-00001" summary="7月4号">
       <created>1562237406138</created>
@@ -430,11 +430,18 @@
       <option name="project" value="LOCAL" />
       <updated>1569490073680</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="更新随机生成手机号">
+      <created>1572429794513</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1572429794513</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78201000" />
+    <option name="totallyTimeSpent" value="80235000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -523,7 +530,8 @@
     <MESSAGE value="8月19号" />
     <MESSAGE value="8月22号" />
     <MESSAGE value="更新多态" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新多态" />
+    <MESSAGE value="更新随机生成手机号" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新随机生成手机号" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -776,11 +784,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Leecode/PhoneNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+        <state relative-caret-position="414">
+          <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leecode/Plus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-299">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
         </state>
       </provider>
     </entry>
