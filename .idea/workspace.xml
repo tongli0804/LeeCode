@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="57a3f8d4-0400-4674-af2b-7e4064485078" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pre/myweimai/com/CompareGoodsId.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Leecode/IdCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Leecode/IdCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leecode/IdCard.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leecode/IdCard.class" afterDir="false" />
-    </list>
+    <list default="true" id="57a3f8d4-0400-4674-af2b-7e4064485078" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -171,7 +166,7 @@
       <workItem from="1571971129430" duration="9446000" />
       <workItem from="1575597292192" duration="1987000" />
       <workItem from="1577262537781" duration="67000" />
-      <workItem from="1577262902907" duration="4043000" />
+      <workItem from="1577262902907" duration="4296000" />
     </task>
     <task id="LOCAL-00001" summary="7月4号">
       <created>1562237406138</created>
@@ -250,7 +245,28 @@
       <option name="project" value="LOCAL" />
       <updated>1572429794513</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="更新随机生成手机号">
+      <created>1577706052672</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1577706052672</updated>
+    </task>
+    <task id="LOCAL-00013" summary="更新随机生成手机号">
+      <created>1577706155836</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1577706155836</updated>
+    </task>
+    <task id="LOCAL-00014" summary="更新">
+      <created>1577706261898</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1577706261898</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -293,13 +309,14 @@
     <MESSAGE value="8月22号" />
     <MESSAGE value="更新多态" />
     <MESSAGE value="更新随机生成手机号" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新随机生成手机号" />
+    <MESSAGE value="更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1577706194093">
+    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1577706260640">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1577706194093" />
+    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1577706260640" />
     <state width="1323" height="162" key="GridCell.Tab.0.bottom" timestamp="1577706200598">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -336,10 +353,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1577263298412" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1577706162362">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1577706264277">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1577706162362" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1577706264277" />
     <state x="363" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1577262903029">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
