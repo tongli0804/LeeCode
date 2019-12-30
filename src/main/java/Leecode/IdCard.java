@@ -11,7 +11,7 @@ import java.util.List;
 //（5）通过上面得知如果余数是2，就会在身份证的第18位数字上出现罗马数字的X。
 //PS:（需要按照规则进行校验，严格控制实名真实性，对贷款实名数据质量十分重要）
 public class IdCard {
-    String num17 = "43010419910113552";
+    String num17 = "43010419910113542";
     List<String> list = Arrays.asList("7 9 10 5 8 4 2 1 6 3 7 9 10 5 8 4 2".split(" "));
     List<String> idnum = Arrays.asList("1 0 X 9 8 7 6 5 4 3 2".split(" "));
     public static void main(String[] args) {
