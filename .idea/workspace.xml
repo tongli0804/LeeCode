@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="57a3f8d4-0400-4674-af2b-7e4064485078" name="Default Changelist" comment="" />
+    <list default="true" id="57a3f8d4-0400-4674-af2b-7e4064485078" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pre/myweimai/com/CompareGoodsId.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pre/myweimai/com/CompareGoodsId.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -166,7 +169,7 @@
       <workItem from="1571971129430" duration="9446000" />
       <workItem from="1575597292192" duration="1987000" />
       <workItem from="1577262537781" duration="67000" />
-      <workItem from="1577262902907" duration="4296000" />
+      <workItem from="1577262902907" duration="12441000" />
     </task>
     <task id="LOCAL-00001" summary="7月4号">
       <created>1562237406138</created>
@@ -266,7 +269,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577706261898</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="更新">
+      <created>1577706356829</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1577706356829</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -313,50 +323,50 @@
     <option name="LAST_COMMIT_MESSAGE" value="更新" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1577706260640">
+    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1577706355743">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1577706260640" />
-    <state width="1323" height="162" key="GridCell.Tab.0.bottom" timestamp="1577706200598">
+    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1577706355743" />
+    <state width="1323" height="162" key="GridCell.Tab.0.bottom" timestamp="1577759131229">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="162" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577706200598" />
-    <state width="1323" height="162" key="GridCell.Tab.0.center" timestamp="1577706200597">
+    <state width="1323" height="162" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577759131229" />
+    <state width="1323" height="162" key="GridCell.Tab.0.center" timestamp="1577759131229">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="162" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577706200597" />
-    <state width="1323" height="162" key="GridCell.Tab.0.left" timestamp="1577706200597">
+    <state width="1323" height="162" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577759131229" />
+    <state width="1323" height="162" key="GridCell.Tab.0.left" timestamp="1577759131229">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="162" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577706200597" />
-    <state width="1323" height="162" key="GridCell.Tab.0.right" timestamp="1577706200598">
+    <state width="1323" height="162" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577759131229" />
+    <state width="1323" height="162" key="GridCell.Tab.0.right" timestamp="1577759131229">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="162" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577706200598" />
-    <state width="1323" height="222" key="GridCell.Tab.1.bottom" timestamp="1577705988326">
+    <state width="1323" height="162" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577759131229" />
+    <state width="1323" height="222" key="GridCell.Tab.1.bottom" timestamp="1577757485983">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="222" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577705988326" />
-    <state width="1323" height="222" key="GridCell.Tab.1.center" timestamp="1577705988326">
+    <state width="1323" height="222" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577757485983" />
+    <state width="1323" height="222" key="GridCell.Tab.1.center" timestamp="1577757485982">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="222" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1577705988326" />
-    <state width="1323" height="222" key="GridCell.Tab.1.left" timestamp="1577705988326">
+    <state width="1323" height="222" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1577757485982" />
+    <state width="1323" height="222" key="GridCell.Tab.1.left" timestamp="1577757485982">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="222" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1577705988326" />
-    <state width="1323" height="222" key="GridCell.Tab.1.right" timestamp="1577705988326">
+    <state width="1323" height="222" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1577757485982" />
+    <state width="1323" height="222" key="GridCell.Tab.1.right" timestamp="1577757485982">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="222" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1577705988326" />
+    <state width="1323" height="222" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1577757485982" />
     <state x="184" y="6" key="SettingsEditor" timestamp="1577263298412">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1577263298412" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1577706264277">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1577706357874">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1577706264277" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1577706357874" />
     <state x="363" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1577262903029">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -374,11 +384,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/Leecode/PhoneNumber.java</url>
           <line>16</line>
           <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/pre/myweimai/com/CompareGoodsId.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
