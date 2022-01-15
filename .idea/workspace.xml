@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="57a3f8d4-0400-4674-af2b-7e4064485078" name="Default Changelist" comment="">
+    <list default="true" id="57a3f8d4-0400-4674-af2b-7e4064485078" name="Default Changelist" comment="更新">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pre/myweimai/com/CompareGoodsId.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pre/myweimai/com/CompareGoodsId.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Leecode/calculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Leecode/calculation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,11 +32,23 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../software/apache-maven-3.8.3" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../../software/apache-maven-3.8.3/conf/settings.xml" />
+      </MavenGeneralSettings>
     </option>
   </component>
   <component name="ProjectId" id="1UaahKyeLv0VPs0ShcSrav4BkNP" />
@@ -41,21 +57,27 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="D:/数据文档/atm-service" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager" selected="Application.CompareGoodsId">
+  <component name="RunManager" selected="Application.calculation">
     <configuration name="CompareGoodsId" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pre.myweimai.com.CompareGoodsId" />
       <module name="LeeCode" />
@@ -69,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IdCard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leecode.IdCard" />
+    <configuration name="GetUserGuess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assist.GetUserGuess" />
       <module name="LeeCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Leecode.*" />
+          <option name="PATTERN" value="Assist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,8 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PhoneNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leecode.PhoneNumber" />
+    <configuration name="IdCard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leecode.IdCard" />
       <module name="LeeCode" />
       <extension name="coverage">
         <pattern>
@@ -108,8 +130,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leecode.Triangle" />
+    <configuration name="calculation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leecode.calculation" />
       <module name="LeeCode" />
       <extension name="coverage">
         <pattern>
@@ -122,19 +144,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Triangle" />
-      <item itemvalue="Application.PhoneNumber" />
       <item itemvalue="Application.Plus" />
       <item itemvalue="Application.IdCard" />
       <item itemvalue="Application.CompareGoodsId" />
+      <item itemvalue="Application.GetUserGuess" />
+      <item itemvalue="Application.calculation" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.calculation" />
+        <item itemvalue="Application.GetUserGuess" />
         <item itemvalue="Application.CompareGoodsId" />
         <item itemvalue="Application.IdCard" />
         <item itemvalue="Application.Plus" />
-        <item itemvalue="Application.PhoneNumber" />
-        <item itemvalue="Application.Triangle" />
       </list>
     </recent_temporary>
   </component>
@@ -150,6 +172,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>C:\Users\choice\AppData\Roaming\Subversion</configuration>
   </component>
@@ -170,6 +193,9 @@
       <workItem from="1575597292192" duration="1987000" />
       <workItem from="1577262537781" duration="67000" />
       <workItem from="1577262902907" duration="12441000" />
+      <workItem from="1636295680332" duration="2044000" />
+      <workItem from="1636794968457" duration="816000" />
+      <workItem from="1642258622792" duration="171000" />
     </task>
     <task id="LOCAL-00001" summary="7月4号">
       <created>1562237406138</created>
@@ -276,20 +302,25 @@
       <option name="project" value="LOCAL" />
       <updated>1577706356829</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="更新">
+      <created>1636301870202</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1636301870202</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -322,62 +353,12 @@
     <MESSAGE value="更新" />
     <option name="LAST_COMMIT_MESSAGE" value="更新" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1577706355743">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1577706355743" />
-    <state width="1323" height="162" key="GridCell.Tab.0.bottom" timestamp="1577759131229">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="162" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577759131229" />
-    <state width="1323" height="162" key="GridCell.Tab.0.center" timestamp="1577759131229">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="162" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577759131229" />
-    <state width="1323" height="162" key="GridCell.Tab.0.left" timestamp="1577759131229">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="162" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577759131229" />
-    <state width="1323" height="162" key="GridCell.Tab.0.right" timestamp="1577759131229">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="162" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577759131229" />
-    <state width="1323" height="222" key="GridCell.Tab.1.bottom" timestamp="1577757485983">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="222" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577757485983" />
-    <state width="1323" height="222" key="GridCell.Tab.1.center" timestamp="1577757485982">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="222" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1577757485982" />
-    <state width="1323" height="222" key="GridCell.Tab.1.left" timestamp="1577757485982">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="222" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1577757485982" />
-    <state width="1323" height="222" key="GridCell.Tab.1.right" timestamp="1577757485982">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="222" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1577757485982" />
-    <state x="184" y="6" key="SettingsEditor" timestamp="1577263298412">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1577263298412" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1577706357874">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1577706357874" />
-    <state x="363" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1577262903029">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="363" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1577262903029" />
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Leecode/calculation.java</url>
-          <line>44</line>
+          <line>43</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">

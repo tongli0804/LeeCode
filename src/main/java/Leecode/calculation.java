@@ -1,6 +1,5 @@
 package Leecode;
 
-import sun.plugin.javascript.navig.Array;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -122,4 +121,5 @@ public class calculation {
         return p2;
 
     }
+
 }
