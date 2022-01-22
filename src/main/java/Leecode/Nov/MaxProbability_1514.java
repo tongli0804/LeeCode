@@ -17,7 +17,7 @@ public class MaxProbability_1514 {
         List<List<Pair>> graphMap=new ArrayList<>();
 
         for (int i = 0; i <n ; i++) {
-            graphMap.add(i,new ArrayList<>());
+            graphMap.add(i,new ArrayList<Pair>());
         }
 
         // init graph，冗余存储 边，方便遍历
