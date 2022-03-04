@@ -23,7 +23,7 @@ public class Dijkstra_743_网络延迟时间 {
             verEdges[i]=new ArrayList<>();
         }
         for (int i = 0; i < times.length; i++) {
-            verEdges[times[i][0]].add(new Pair(times[i][1],times[i][2]));
+            verEdges[times[i][0]].add(new Pair(times[i][1], times[i][2]));
         }
 
         //记录起始点到当前点的距离
@@ -37,7 +37,7 @@ public class Dijkstra_743_网络延迟时间 {
 
         //优先队列，用于每次取未访问过节点中的离起始点最近的节点
         PriorityQueue<Pair> queue = new PriorityQueue<Pair>();
-        queue.add(new Pair(k,0));
+        queue.add(new Pair(k, 0));
         dis[k]=0;
 
         while (!queue.isEmpty()){
@@ -53,7 +53,7 @@ public class Dijkstra_743_网络延迟时间 {
                 int nextNewDis=dis[curVer]+next.value;
                 if(nextNewDis<dis[nextVer]){
                     dis[nextVer]=nextNewDis;
-                    queue.add(new Pair(next.key,nextNewDis));
+                    queue.add(new Pair(next.key, nextNewDis));
                 }
             }
         }
@@ -72,7 +72,7 @@ public class Dijkstra_743_网络延迟时间 {
     }
 
 
-    class Pair implements Comparable<Pair> {
+    static class Pair implements Comparable<Pair> {
 
         /**
          * Key of this <code>Pair</code>.
