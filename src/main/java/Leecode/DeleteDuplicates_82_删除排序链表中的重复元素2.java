@@ -38,6 +38,20 @@ public class DeleteDuplicates_82_删除排序链表中的重复元素2 {
         return preHead.next;
     }
 
+    static class ListNode {
+        int val;
+        ListNode next;
+
+        ListNode() {}
+
+        ListNode(int val) {this.val = val;}
+
+        ListNode(int val, ListNode next) {
+            this.val = val;
+            this.next = next;
+        }
+    }
+
     public static void main(String[] args) {
         int[] nums={1,2,3,3,4,4,5};
         ListNode head=new ListNode(nums[0]);
@@ -64,16 +78,4 @@ public class DeleteDuplicates_82_删除排序链表中的重复元素2 {
     }
 }
 
-class ListNode {
-    int val;
-    ListNode next;
 
-    ListNode() {}
-
-    ListNode(int val) {this.val = val;}
-
-    ListNode(int val, ListNode next) {
-        this.val = val;
-        this.next = next;
-    }
-}
