@@ -1,4 +1,4 @@
-package Assist;
+package test;
 
 
 import java.util.Scanner;

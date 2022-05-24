@@ -1,4 +1,4 @@
-package dot.com;
+package course.tongli.com;
 
 public class GameHelper {
 }

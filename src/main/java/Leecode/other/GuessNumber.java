@@ -1,7 +1,5 @@
 package Leecode.other;
 
-import Assist.GetUserGuess;
-
 import java.util.Scanner;
 
 
